@@ -4,7 +4,10 @@ import Map from './Map';
 
 function App() {
   return (
-    <div><Map /></div>
+    <div>
+      <div>Hello Google Map UserS! </div>
+      <div><Map /></div>
+      </div>
   );
 }
 
